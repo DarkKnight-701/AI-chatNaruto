@@ -14,7 +14,7 @@ responses = {
 
     "your name": [
         "My name is Naruto AI.",
-        "I am Nexus, your AI assistant."
+        "I am Naruto, your AI assistant."
     ],
 
     "time": [
